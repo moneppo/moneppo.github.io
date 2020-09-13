@@ -1,12 +1,12 @@
 {
-  "name": "jekflix-template",
-  "version": "3.1.0",
-  "description": "A Jekyll theme inspired by Netflix",
+  "name": "moneppo.github.io",
+  "version": "1.0.0",
+  "description": "Curious Place",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://github.com/moneppo/moneppo.github.io/#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://github.com/moneppo/moneppo.github.io.git"
   },
   "keywords": [
     "jekyll",
@@ -15,10 +15,10 @@
     "blog",
     "netlify"
   ],
-  "author": "Thiago Rossener",
+  "author": "moneppo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+    "url": "https://github.com/moneppo/moneppo.github.io/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",

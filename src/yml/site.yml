@@ -1,13 +1,8 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Curious Place
+title: Curious Place
+description: A place for art & experience that take you to new places, real & imaginary.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
@@ -18,5 +13,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: info@curious.place
 disqus_username: disqus_username
